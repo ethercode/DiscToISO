@@ -6,6 +6,8 @@
     <PROJECT value="DiscToISO.exe"/>
     <OBJFILES value="DiscToISO.obj untMain.obj"/>
     <RESFILES value="DiscToISO.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
     <DEFFILE value=""/>
     <RESDEPEN value="$(RESFILES) untMain.dfm"/>
     <LIBFILES value=""/>
